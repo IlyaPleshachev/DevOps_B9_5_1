@@ -1,0 +1,25 @@
+{
+  "name": "devops_b9_5_1",
+  "version": "1.0.0",
+  "description": "homework for DevOps B9_5_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaPleshachev/DevOps_B9_5_1.git"
+  },
+  "keywords": [
+    "incredible"
+  ],
+  "author": "Ilya Pleshachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaPleshachev/DevOps_B9_5_1/issues"
+  },
+  "homepage": "https://github.com/IlyaPleshachev/DevOps_B9_5_1#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
